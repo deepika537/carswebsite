@@ -29,6 +29,9 @@ Interface explanation as follows
 
 4.	Right now, we can associate one driver with one car.
 5.	Click on blue color “view driver” button to view driver details for particular car
+
+![ScreenShot12](/Images/ScreenShot12.jpg?raw=true "Optional Title")
+
 6.	Click on yellow color “update” button to update car details.
 
 ![ScreenShot4](/Images/ScreenShot4.jpg?raw=true "Optional Title")
@@ -39,7 +42,7 @@ Interface explanation as follows
 
 8.	Interface has global search in order to search and filter data from the table
 
-![ScreenShot1](/Images/ScreenShot1.jpg?raw=true "Optional Title")
+![ScreenShot2](/Images/ScreenShot2.jpg?raw=true "Optional Title")
 
 9.	We can sort table using each column by clicking on up and down arrows next to each column
 10.	 Table has pagination to see next page data. 
@@ -52,11 +55,11 @@ Interface explanation as follows
 
 12.	Each car has following properties: Make, Model, Year, Country, Color, Transmission, Plate#, State, Mileage.
 
-![ScreenShot9](/Images/ScreenShot1.jpg?raw=true "Optional Title")
+![ScreenShot9](/Images/ScreenShot9.jpg?raw=true "Optional Title")
 
 13.	Driver has the following properties: CarId, Name, Associatedriver, DriverStick(yes, no)
 
-![ScreenShot10](/Images/ScreenShot1.jpg?raw=true "Optional Title")
+![ScreenShot10](/Images/ScreenShot9.jpg?raw=true "Optional Title")
 
 14.	In the cars table and drivers table the first column(Id) is the primary key of the tables.
 
