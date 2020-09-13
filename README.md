@@ -14,6 +14,7 @@
     * epiz_26672605_cars.sql=> It contains all SQL queries to create and insert data into table.
     * Database name: epiz_26672605_cars
     * I created 2 tables. One table stores Carsdata and another stores Drivers data
+ 7. Create Database and upload SQL file (epiz_26672605_cars.sql)
 
 Interface explanation as follows
 
