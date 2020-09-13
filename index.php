@@ -120,7 +120,7 @@
 							<input type="text" class="form-control" id="driverName" name="driverName" placeholder="Driver Name" required>			
 						</div>
 						<div class="form-group">
-							<label for="associateDriver" class="control-label">associateDriver</label>							
+							<label for="associateDriver" class="control-label">AssociateDriver</label>							
 							<input type="text" class="form-control" id="associateDriver" name="associateDriver" placeholder="Associate Driver">							
 						</div>	
 						<div class="form-group">
