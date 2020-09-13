@@ -60,7 +60,7 @@ Interface explanation as follows
 
 13.	Driver has the following properties: CarId, Name, Associatedriver, DriverStick(yes, no)
 
-![ScreenShot10](/Images/ScreenShot9.jpg?raw=true "Optional Title")
+![ScreenShot10](/Images/ScreenShot10.jpg?raw=true "Optional Title")
 
 14.	In the cars table and drivers table the first column(Id) is the primary key of the tables.
 
